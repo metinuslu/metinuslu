@@ -5,7 +5,7 @@
 - Programmer, Statistician and Student of CompEng. Always student of something like everyone.
 - I am interested in Data Ops, MLOps.
 - Reach me: https://linkedin.com/in/metinuslu  
-- Tech Stack or My Backpack: https://stackshare.io/metinuslu  
+- Tech Stack or My BackPack: https://stackshare.io/metinuslu  
 - My blog http://metinuslu.com & https://medium.com/@metinuslu
 
 
