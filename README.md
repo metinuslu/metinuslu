@@ -3,7 +3,7 @@
 - I’m currently working on LC Waikiki | Data Professional
 - I love Python, R, Spark, BigData, Docker, GNU/Linux etc.  
 - Programmer, Statistician and Student of CompEng. Always student of something like everyone.
-- I am interested in Data Ops, MLOps.
+- I'm interested in Data Ops, MLOps.
 - Reach me: https://linkedin.com/in/metinuslu  
 - Tech Stack or My BackPack: https://stackshare.io/metinuslu  
 - My blog http://metinuslu.com & https://medium.com/@metinuslu
