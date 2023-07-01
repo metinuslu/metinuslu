@@ -1,6 +1,6 @@
 ### Hi there! I'm Metin 👋
 
-- I’m currently working on LC Waikiki | Data Professional
+- I’m currently working on Intertech Architect MLOps Engineer | Data Professional
 - I love Python, R, Spark, BigData, Docker, GNU/Linux etc.  
 - Programmer, Statistician and Student of CompEng. Always student of something like everyone.
 - I'm interested in DataOps, MLOps.
