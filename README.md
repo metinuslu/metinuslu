@@ -12,12 +12,6 @@
 
 ![Metin's github stats](https://github-readme-stats.vercel.app/api?username=metinuslu)
 
-![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=metinuslu&count_private=true&show_icons=true&theme=graywhite) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=metinuslu&layout=compact)
-[![](https://img.shields.io/badge/bio-metinuslu-blue)](https://metinuslu.com)
-[![](https://img.shields.io/badge/blog-veribilimci.org-blue)](https://veribilimci.org)
-[![Linkedin: metinuslu](https://img.shields.io/badge/-metinuslu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metinuslu)](https://www.linkedin.com/in/metinuslu)
-[![Twitter: uslumetin](https://img.shields.io/badge/-metinuslu-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/metinuslu)](https://www.twitter.com/metinuslu)
-
 <!--
 ![](https://github-readme-stats.vercel.app/api?include_all_commits=true&hide_title=true&username=metinuslu&count_private=true&show_icons=true&theme=graywhite) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=metinuslu&layout=compact)
 [![](https://img.shields.io/badge/bio-metinuslu.com-blue)](https://metinuslu.com)
